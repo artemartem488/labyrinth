@@ -6,33 +6,33 @@
 
 * ## FUNCTIONS
 
-### режим для одного игрока
+### single player mode
 
 ### управление:
--  вверх(`⭡`)
--  вниз(`⭣`)
--  вправо(`⭢`)
--  влево(`⭠`)
+-  up(`⭡`)
+-  down(`⭣`)
+-  right(`⭢`)
+-  left(`⭠`)
 
-* Отслеживание результатов : игра отслеживает координаты игрока и проверяет дошел ли он до зеленого квадрата
-* Физика стен : сквозь них нельзя пройти
-* Конец игры : игрок выиграет когда, дойдет до зеленого квадрата
-* Границы поля : Игра включает верхнюю, нижнюю и боковые границы.
+* Score Tracking: The game tracks the player's coordinates and checks whether they have reached the green square.
+* Wall Physics: Walls cannot be passed through.
+* Game End: The player wins when they reach the green square.
+* Field Boundaries: The game includes upper, lower, and side boundaries.
 
-* ## СКРИНШОТЫ
+* ## SCREENSHOTS
 
-## начало:
+## start:
 
 ![alt text](img/1.jpg)
 
-## ходьба:
+## walk:
 
 ![alt text](img/2.jpg)
 
-## физичность стен:
+## physicality of the walls:
 
 ![alt text](img/3.jpg)
 
-## объявление победы:
+## declaration of victory:
 
 ![alt text](img/4.jpg)
