@@ -8,7 +8,7 @@
 
 ### single player mode
 
-### управление:
+### control:
 -  up(`⭡`)
 -  down(`⭣`)
 -  right(`⭢`)
